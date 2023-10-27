@@ -1150,7 +1150,7 @@
       "displayName": "Krigan Network",
       "symbols": ["KRGN"],
       "decimals": [9],
-      "standardAccount": "*25519",
+      "standardAccount": "Ed25519",
       "website": "https://krigan.network"
     },
     {
@@ -1290,12 +1290,12 @@
     },
     {
       "prefix": 14697,
-      "network": "goro",
-      "displayName": "GORO Network",
-      "symbols": ["GORO"],
+      "network": "nagara",
+      "displayName": "nagara Network",
+      "symbols": ["NGR"],
       "decimals": [9],
       "standardAccount": "*25519",
-      "website": "https://goro.network"
+      "website": "https://nagara.network"
     }
   ]
 }
