@@ -1145,15 +1145,6 @@
       "website": "https://gmordie.com"
     },
     {
-      "prefix": 7306,
-      "network": "krigan",
-      "displayName": "Krigan Network",
-      "symbols": ["KRGN"],
-      "decimals": [9],
-      "standardAccount": "Ed25519",
-      "website": "https://krigan.network"
-    },
-    {
       "prefix": 7391,
       "network": "unique_mainnet",
       "displayName": "Unique Network",
@@ -1224,6 +1215,15 @@
       "decimals": [12],
       "standardAccount": "*25519",
       "website": "https://bsx.fi"
+    },
+    {
+      "prefix": 11111,
+      "network": "nagara-storage",
+      "displayName": "Nagara Storage",
+      "symbols": ["B"],
+      "decimals": [0],
+      "standardAccount": "Ed25519",
+      "website": "https://storage.nagara.network"
     },
     {
       "prefix": 11330,
